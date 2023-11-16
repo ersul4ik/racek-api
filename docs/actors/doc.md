@@ -1,42 +1,42 @@
-# Actors
+## Actors
 
-### Super Users
+- [Actors and Permissions](#actors-and-permissions)
+  - [Tour Company Owner](#tour-company-owner)
+  - [Managers](#managers)
+  - [Guides](#guides)
+  - [Clients](#clients)
 
-#### Working place: Web (Admin Panel)
+## Actors and Permissions
 
-#### Permissions: 
-1. Create company profiles
-2. Create managers
+### Tour Company Owner
 
+As the owner of the tour company, you have full control over the system. Your permissions include:
 
+- Create, read, update, and delete tours.
+- Create/delete manager accounts.
+- View and analyze reports and analytics.
+- Configure system settings and preferences.
 
 ### Managers
 
-#### Working place: Web (Admin Panel)
+Managers play a crucial role in overseeing day-to-day operations. Their permissions include:
 
-#### Permissions: 
-1. Create managers
-2. Create guides
-2. Create tours
-3. Send news to customers 
-4. Create promocodes
-
+- Create, read, update, and delete tours assigned to their tour company.
+- Manage guides and assign them to specific tours.
+- View reports and analytics related to their department.
 
 ### Guides
 
-#### Working place: Mobile APP (Guide APP)
+Guides are responsible for leading tours and ensuring a positive experience for clients. Their permissions include:
 
-#### Permissions: 
-1. Create a tour
-2. Сonfirm the client who came / did not come on the tour
-3. Add information about the tourist attraction
+- View details of assigned tours, including itinerary and client information.
+- Update tour statuses (e.g., started, completed).
 
+### Clients
 
-### Customers
+Clients are the end-users who book and participate in tours. Their permissions include:
 
-#### Working place: Client APP (Client APP)
-
-#### Permissions: 
-1. Find tours
-2. Book and buy a seat on the tour
-3. Use promocodes
+- Browse available tours and view details.
+- Make tour reservations.
+- Access and update personal information.
+- Provide feedback and reviews after completing a tour.
