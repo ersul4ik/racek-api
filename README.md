@@ -24,7 +24,7 @@ pyenv activate racek-api
 Update `pip` & `setuptools`, install `pip-tools`:
 
 ```bash
-pip install -U pip pip-tools setuptools
+pip install -U pip pip-tools setuptools pre-commit
 ```
 
 ### Installation
